@@ -1,0 +1,167 @@
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\App.g.cs
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+c:\users\stambi\documents\visual studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\View\EditorFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\View\EditorFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\View\EditorFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\App.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\View\EditorFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\View\EditorFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\App.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\View\EditorFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control - Before AvlonEdit DataContent was working\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\Interop.ISBA1500Lib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\Interop.SRFILETOOLSLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\Interop.SRPATEDITSUPPLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\Interop.SRPATTERNGENERATORLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.ResolveComReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\RamFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\TextFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\SegmentFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\App.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\RamFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\TextFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\View\SegmentFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\MessagingModule.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\MessagingModule.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\Interop.ISBA1500Lib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\Interop.SRFILETOOLSLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\Interop.SRPATEDITSUPPLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\Interop.SRPATTERNGENERATORLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.ResolveComReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\AscFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\RamFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\TextFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\EditorErrorWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\SegmentFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\App.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\AscFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\RamFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\TextFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\View\SegmentFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\PatternEditor_MVVM.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\Interop.ISBA1500Lib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\Interop.SRFILETOOLSLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\Interop.SRPATEDITSUPPLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\Interop.SRPATTERNGENERATORLib.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.ResolveComReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\View\TextFileView.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\App.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\MainWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\MainWindowResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\View\TextFileView.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.Properties.Resources.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.csproj.GenerateResource.Cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.exe
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\PatternEditor_MVVM\obj\Debug\PatternEditor_MVVM.pdb

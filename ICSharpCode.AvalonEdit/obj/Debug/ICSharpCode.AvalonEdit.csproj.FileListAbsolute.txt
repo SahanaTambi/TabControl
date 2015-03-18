@@ -1,0 +1,127 @@
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2008\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\AvalonEdit_4.3.1_Source - Copy\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM-Tab Control\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgress\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\Editor - TabHelp\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb

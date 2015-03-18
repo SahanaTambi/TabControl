@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PatternEditor_MVVM.App" Collapsed="true">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.MainWindow" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.MvvmTextEditor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAEAAACAAABAA=</HashCode>
+      <FileName>Model\MvvmTextEditor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.SegmentFile" Collapsed="true">
+    <Position X="9" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAICAgAABAIAAAAAiEACAAhAAAAAAAAAACAA=</HashCode>
+      <FileName>Model\SegmentFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Properties.Resources" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.EditorFileViewModel" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>RAABMoQCBAAAAABAUQEACNACAAAhCBAAAFBAACAMAIA=</HashCode>
+      <FileName>ViewModel\EditorFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_editorFile" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.SegmentFileViewModel" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>c5CgFIBCABAghhgCBgRECCABAAAACxIApTBkhoQ8BoA=</HashCode>
+      <FileName>ViewModel\SegmentFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_segFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.ViewModelBase" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAAIAAAAQAQgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatterEditor_MVVM.ViewModel.EditorWindowViewModel" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAzAEQACACAGAgCMQBAAAAAAkAAgEEIAAAAAAAkAEA=</HashCode>
+      <FileName>ViewModel\EditorWindowViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.AscFile" Collapsed="true">
+    <Position X="6.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\AscFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.MaskFile" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MaskFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.PatternFile" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAgAAAAAAAACCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\PatternFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.RamFile" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RamFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.TextFile" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="PatternEditor_MVVM.Model.EditorFile" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="4.812" />
+        <Point X="4.75" Y="5.729" />
+        <Point X="4.052" Y="5.729" Type="JumpStart" />
+        <Point X="3.792" Y="5.729" Type="JumpEnd" />
+        <Point X="1.25" Y="5.729" />
+        <Point X="1.25" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg=</HashCode>
+      <FileName>Model\TextFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.UerFile" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\UerFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.PatternFileViewModel" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABBgCAAAAAgAAAAAAgiAAKAIAIADCAAAAwAkAABMABA=</HashCode>
+      <FileName>ViewModel\PatternFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_patternFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.AscFileViewModel" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAIAAAAAAAAAAAAAAASAAAAAAAAAAARAkAAAMAAA=</HashCode>
+      <FileName>ViewModel\AscFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_ascFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.RamFileViewModel" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAIAAAAAAAAAAAAAAACAAAAAAAAAAARAkAAIMAAA=</HashCode>
+      <FileName>ViewModel\RamFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_ramFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.View.TextFileView" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\TextFileView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternEditor_MVVM.Model.EditorFile" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAgBAAgBAgAAAEAAAAAEAAgCBAAgABAACAIAKA=</HashCode>
+      <FileName>Model\EditorFile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatternEditor_MVVM.ViewModel.TextFileViewModel" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAA=</HashCode>
+      <FileName>ViewModel\TextFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_txtFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.MaskFileViewModel" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MaskFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_maskFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatternEditor_MVVM.UerFileViewModel" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>UerFileViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_uerFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="PatternEditor_MVVM.Model.FileStatusEnum" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAIAAAAAAAAAAAAAQACAAAAAAAAAABAAAAAAAIA=</HashCode>
+      <FileName>Model\EditorFile.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PatternEditor_MVVM.Model.errorCode" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAgQAAAIAAAACAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Model\EditorFile.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PatternEditor_MVVM.Model.ParserStatusEnum" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAIAAAIAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\EditorFile.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PatternEditor_MVVM.DisplayFormat" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PatternEditor_MVVM.TruncateOption" Collapsed="true">
+    <Position X="9.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAABIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\bin\Release\MessagingModule.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\bin\Release\MessagingModule.pdb
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessagingModule.csprojResolveAssemblyReference.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessageControlResources.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessageControl.baml
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessageControl.g.cs
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessagingModule_MarkupCompile.cache
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessagingModule.g.resources
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessagingModule.dll
+C:\Users\stambi\Documents\Visual Studio 2012\Projects\PatternEditor_MVVM - InProgressTabControl\MessagingModule\obj\Release\MessagingModule.pdb
